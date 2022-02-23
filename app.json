@@ -1,0 +1,7 @@
+{
+    "name": "Wordle Word Generator",
+    "description": "Wordle Word Generator Api.",
+    "repository": "https://github.com/DarklordX89X/wordlewordgenerator",
+    "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/icon.png",
+    "keywords": ["wordle"]
+}
